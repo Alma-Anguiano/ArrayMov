@@ -1,0 +1,72 @@
+[
+	{
+		"name" : "Diego", 
+		"hobby" : "leer", 
+		"age" : 20,
+		"phone" : 4521583964,
+		"address" : "Diego123@hotmai.com" 
+	}, 
+	{
+		"name" : "Mariana", 
+		"hobby" : "acuarela", 
+		"age" : 32,
+		"phone" : 4713690387,
+		"address" : "MarAns78@hotmai.com"  
+	}, 
+	{
+		"name" : "Rosa", 
+		"hobby" : "maquillar", 
+		"age" : 15,
+		"phone" : 7150083964,
+		"address" : "RositaH@hotmai.com"  
+	}, 
+	{
+		"name" : "Nathalie", 
+		"hobby" : "dibujar",
+		"age" : 27,
+		"phone" : 9351670855,
+		"address" : "Nath711S@hotmai.com"  
+	}, 
+	{
+		"name" : "Said", 
+		"hobby" : "leer", 
+		"age" : 23,
+		"phone" : 4521389403,
+		"address" : "SaidVall@hotmai.com"  
+	}, 
+	{
+		"name" : "Santiago", 
+		"hobby" : "cocinar", 
+		"age" : 23,
+		"phone" : 4529303964,
+		"address" : "SantiAvv@hotmai.com"  
+	}, 
+	{
+		"name" : "Alma", 
+		"hobby" : "musica", 
+		"age" : 21,
+		"phone" : 4521540999,
+		"address" : "almaanguiano@hotmai.com"  
+	}, 
+	{
+		"name" : "Sofia", 
+		"hobby" : "Caminar", 
+		"age" : 25,
+		"phone" : 4521597744,
+		"address" : "SoffHernandez@hotmai.com"  
+	}, 
+	{
+		"name" : "Fernanda", 
+		"hobby" : "dibujar", 
+		"age" : 18,
+		"phone" : 3150583964,
+		"address" : "Fer2009@hotmai.com"  
+	}, 
+	{
+		"name" : "Ana", 
+		"hobby" : "pintar", 
+		"age" : 22,
+		"phone" : 4529073964,
+		"address" : "AnaBanana@hotmai.com"  
+	}
+]
